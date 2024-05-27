@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "sort-fp.h": "c",
+        "op-1.h": "c",
+        "sfp-machine.h": "c",
+        "longlong.h": "c",
+        "sf.h": "c",
+        "single.h": "c",
+        "soft-fp.h": "c"
+    }
+}

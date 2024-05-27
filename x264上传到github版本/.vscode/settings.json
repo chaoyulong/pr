@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "base.h": "c",
+        "stdint.h": "c",
+        "stddef.h": "c",
+        "assert.h": "c",
+        "limits.h": "c",
+        "dlfcn.h": "c",
+        "math.h": "c",
+        "string.h": "c",
+        "fp-logb.h": "c",
+        "fp-fast.h": "c",
+        "stdlib.h": "c",
+        "strings.h": "c",
+        "my_math.h": "c",
+        "stat.h": "c",
+        "inttypes.h": "c",
+        "x264.h": "c",
+        "osdep.h": "c",
+        "fs.h": "c",
+        "x264_config.h": "c",
+        "my_malloc.h": "c",
+        "cstdint": "c",
+        "config.h": "c",
+        "stdarg.h": "c",
+        "printf.h": "c",
+        "ctype.h": "c",
+        "common.h": "c"
+    }
+}
